@@ -80,9 +80,9 @@ Use the algorithms to provide proper watering guidance, reducing water use while
 With innovative approaches to age-old problems, computer vision and AI have the power to completely transform indoor gardening.Indoor gardeners may optimize plant development, use fewer resources, and increase the health and quality of their plants by detecting plant height and age, leaf disease, and leaf density. AI can also be used to monitor soil conditions, identify pests, and optimize lighting and watering schedules, making indoor gardening more effective and sustainable. We may anticipate even more cutting-edge AI uses in indoor gardening as these technologies develop, enhancing plant sustainability and health for everyone.
 
 By:- 
-Mehul Ligade
-Pranav Khandagale
-Pratik Gidde
+Mehul Ligade,
+Pranav Khandagale,
+Pratik Gidde,
 Akansha Karande
 
 
