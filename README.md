@@ -1,5 +1,5 @@
 # Plant-Classification-and-Care-Recommandations
-
+Impilimentation Video: https://www.linkedin.com/posts/mehulcode12_indoorgardening-plantcare-innovation-activity-7065544172874739712-loVY/?utm_source=share&utm_medium=member_desktop
 
 AUTOMATIC PLANT DETECTION AND CARE RECOMMENDATIONS USING OPENCV AND MACHINE LEARNING TECHNIQUES
 
